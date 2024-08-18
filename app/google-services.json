@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1093765834655",
+    "project_id": "educatly-chat",
+    "storage_bucket": "educatly-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093765834655:android:eef7a1f0d538b8a2463faa",
+        "android_client_info": {
+          "package_name": "com.educayly_chat_app.educayly_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093765834655-qcipfsr5qrjocu1q8u3ps48lcb3218mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBADY9gyY_x3IvL0letU_gVsVJkwJ5PdXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093765834655-qcipfsr5qrjocu1q8u3ps48lcb3218mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

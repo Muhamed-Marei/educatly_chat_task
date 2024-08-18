@@ -1,0 +1,27 @@
+{
+  "language": "English",
+  "userName": "User Name",
+  "password": "Password",
+  "login": "Login",
+  "forgotPassword": "Forgot Password?",
+  "rememberMe": "Remember Me",
+  "signUp": "Sign Up",
+  "welcome": "Welcome",
+  "welcomeDescription": "Welcome to Educatly",
+  "welcomeBack": "Welcome Back",
+  "welcomeBackDescription": "Welcome Back to Educatly",
+  "notHaveAnAccount": "Don't have an account?",
+  "confirmPasswordHint": "Confirm Password",
+  "signUpFormTitle": "Sign Up",
+  "signupPasswordHint": "Password",
+  "signupEmailHint": "Email",
+  "signUpUseEmail": "Sign Up with Email",
+  "loginEmailHint": "Email",
+  "loginFormTitle": "Login",
+  "loginPasswordHint": "Password",
+  "loginUseEmail": "Login with Email",
+  "failedToLogin": "Failed to Login",
+  "successLogin": "Login Successful"
+
+}
+

@@ -1,0 +1,28 @@
+{
+  "language":"اَلْعَرَبِيَّةُ",
+  "userName":"اسم المستخدم" ,
+  "password": "كلمه السر",
+  "login": "تسجيل الدخول",
+  "forgotPassword": "نسيت كلمة المرور؟",
+  "rememberMe": "تذكرني",
+    "signUp": "تسجيل",
+  "welcome": "مرحبا",
+  "welcomeDescription": "مرحبا بك في  Educatly ",
+  "welcomeBack": "مرحبا بعودتك",
+  "welcomeBackDescription": "مرحبا بعودتك",
+  "notHaveAnAccount": "ليس لديك حساب؟",
+  "confirmPasswordHint": "تأكيد كلمة المرور",
+  "signUpFormTitle": "تسجيل",
+  "signupPasswordHint": "كلمة المرور",
+  "signupEmailHint": "البريد الالكتروني",
+  "signUpUseEmail": "تسجيل بالبريد الالكتروني",
+  "loginEmailHint": "البريد الالكتروني",
+  "loginFormTitle": "تسجيل الدخول",
+  "loginPasswordHint": "كلمة المرور",
+  "loginUseEmail": "تسجيل بالبريد الالكتروني",
+  "failedToLogin": "فشل في تسجيل الدخول",
+  "successLogin": "تم تسجيل الدخول بنجاح"
+
+
+
+}
